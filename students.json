@@ -1,0 +1,9 @@
+[
+    {
+        "student_id": "101",
+        "name": "dinesh",
+        "age": 17,
+        "department": "cse",
+        "marks": 95.0
+    }
+]
